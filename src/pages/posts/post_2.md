@@ -23,5 +23,5 @@ Asimismo, saludó de manera especial a la Coordinadora de los Comités de Defens
 “¡Qué viva Rocío Nahle!¡Qué viva Veracruz!¡Qué viva la Cuarta Transformación!”, concluyó Guerrero Pérez.
 Asistieron liderazgos como Zenyazen Escobar, Claudia Tello Espinosa, Juan Javier Gómez Cazarín, Esteban Ramírez Zepeta, entre otros.'
 link: https://www.facebook.com/TlacuacheNoticias/posts/262584463478262?ref=embed_post
-redireccion: /posts/post_2
+redireccion: /eltlacuache/posts/post_2
 ---

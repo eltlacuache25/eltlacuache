@@ -8,5 +8,5 @@ Para ello, el quiebra cargas del acueducto fue cerrado como resultado de la inte
 Fuentes de agua que se afectan a causa de las condiciones climáticas provocadas por los frentes fríos, como el número 12 que dejó intensas precipitaciones en la región.
 Derivado de ello la CMAS ha cerrado el suministro de agua hacia la región, afectando a diversas colonias de la ciudad en tanto concluye el proceso de filtración del vital líquido.'
 link: https://www.facebook.com/TlacuacheNoticias/posts/262771470126228?ref=embed_post
-redireccion: /posts/post_3
+redireccion: /eltlacuache/posts/post_3
 ---
