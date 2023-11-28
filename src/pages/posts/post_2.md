@@ -2,7 +2,7 @@
 layout: './PostsLayout.astro'
 etiqueta: 27 de Noviembre del 2023
 titulo: 'VERACRUZ LLEVARÁ A MEXICO AL SEGUNDO PISO DE LA 4T: ROCÍO NAHLE'
-imagen: /405076109_262583760144999_7684122085802532649_n.jpg
+imagen: /eltlacuache/405076109_262583760144999_7684122085802532649_n.jpg
 descripcion: '*Unidos Todos celebra con Rocío Nahle.
 *Fue invitada al séptimo aniversario de Unidos Todos en el municipio de Banderilla.
 *Más de 20 mil personas se unen y festejan con Rocío Nahle.
