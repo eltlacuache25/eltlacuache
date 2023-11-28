@@ -7,7 +7,7 @@ import netlify from "@astrojs/netlify/functions";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://eltlacuache25.github.io',
-  base: '/conoce-el-sur-de-Veracruz',
+  base: '/eltlacuache',
   //output: "server",
   //adapter: netlify()
 });
