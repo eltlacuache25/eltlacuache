@@ -9,9 +9,7 @@ const img = "/eltlacuache.jpg",
 url = "https://www.facebook.com/TlacuacheNoticias?mibextid=JRoKGi",
 nombre = "El Tlacuache";
 
-const { frontmatter } = Astro.props;
-
-const { titulo, imagen, descripcion, link } = frontmatter;
+const { titulo, imagen, descripcion, link } = Astro.props;
 ---
 
 <Layout>
