@@ -8,16 +8,16 @@ import Title from "../components/blog/Title.astro";
 import Posts from "../components/blog/Posts.astro";
 import Card from "../components/blog/Card.astro";
 import Jumbotron from "../components/Jumbotron.astro";
+import img from "../../public/eltlacuache.jpg";
 
-const imagen = "/eltlacuache.jpg",
-  link = "https://www.facebook.com/TlacuacheNoticias?mibextid=JRoKGi",
+const link = "https://www.facebook.com/TlacuacheNoticias?mibextid=JRoKGi",
   nombre = "El Tlacuache";
 const articulos = await Astro.glob("./posts/*.md");
 articulos.reverse();
 ---
 
 <Layout>
-  <Navbar imagen={imagen} link={"/"} nombre={nombre}>
+  <Navbar imagen={img.src} link={"/"} nombre={nombre}>
     <NavOption link={"/"} nombre={"Inicio"} />
     <NavOption link={"/galeria"} nombre={"Galeria"} />
   </Navbar>
