@@ -7,7 +7,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://eltlacuache25.github.io',
-  base: '/eltlacuache',
+  base: '/',
   //output: "server",
   //adapter: netlify()
 });
