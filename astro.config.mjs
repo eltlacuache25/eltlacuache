@@ -6,7 +6,7 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://eltlacuache25.github.io',
+  site: 'https://eltlacuachenews.com/',
   base: '/eltlacuache',
   //output: "server",
   //adapter: netlify()
