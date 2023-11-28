@@ -1,5 +1,5 @@
 ---
-layout: './PostsLayout.astro'
+layout: ../../layouts/PostsLayout.astro
 etiqueta: 27 de Noviembre del 2023
 titulo: 'Espectacular cierre en el 35 Aniversario de #Nanchital'
 imagen: /eltlacuache/405175819_262793170124058_5441842052756592892_n.jpg

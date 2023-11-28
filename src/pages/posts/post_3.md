@@ -1,5 +1,5 @@
 ---
-layout: './PostsLayout.astro'
+layout: ../../layouts/PostsLayout.astro
 etiqueta: 27 de Noviembre del 2023
 titulo: Cerrada la Presa Yuribia por turbiedad del agua 
 imagen: /eltlacuache/404622761_262771490126226_8378743535493092413_n.jpg

@@ -1,5 +1,5 @@
 ---
-layout: './PostsLayout.astro'
+layout: ../../layouts/PostsLayout.astro
 etiqueta: 27 de Noviembre del 2023
 titulo: 'VERACRUZ LLEVARÁ A MEXICO AL SEGUNDO PISO DE LA 4T: ROCÍO NAHLE'
 imagen: /eltlacuache/405076109_262583760144999_7684122085802532649_n.jpg
