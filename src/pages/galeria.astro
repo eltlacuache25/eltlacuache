@@ -6,15 +6,16 @@ import Footer from "../components/Footer.astro";
 
 import Galery from "../components/Galery.astro";
 import GaleryImg from "../components/GaleryImg.astro";
-const imagen = "/eltlacuache.jpg",
-  link = "https://www.facebook.com/TlacuacheNoticias?mibextid=JRoKGi",
+import img from "../../public/eltlacuache.jpg";
+
+const link = "https://www.facebook.com/TlacuacheNoticias?mibextid=JRoKGi",
   nombre = "El Tlacuache";
 const articulos = await Astro.glob("./posts/*.md");
 articulos.reverse();
 ---
 
 <Layout>
-  <Navbar imagen={imagen} link={"/"} nombre={nombre}>
+  <Navbar imagen={img.src} link={"/"} nombre={nombre}>
     <NavOption link={"/"} nombre={"Inicio"} />
     <NavOption link={"/galeria"} nombre={"Galeria"} />
   </Navbar>
