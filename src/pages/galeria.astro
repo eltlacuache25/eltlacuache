@@ -6,18 +6,18 @@ import Footer from "../components/Footer.astro";
 
 import Galery from "../components/Galery.astro";
 import GaleryImg from "../components/GaleryImg.astro";
-import img from "../../public/eltlacuache.jpg";
 
 const link = "https://www.facebook.com/TlacuacheNoticias?mibextid=JRoKGi",
-  nombre = "El Tlacuache";
+  nombre = "El Tlacuache",
+  img = "eltlacuache.jpg";
 const articulos = await Astro.glob("./posts/*.md");
 articulos.reverse();
 ---
 
 <Layout>
-  <Navbar imagen={img.src} link={"/eltlacuache/"} nombre={nombre}>
-    <NavOption link={"/eltlacuache/"} nombre={"Inicio"} />
-    <NavOption link={"/eltlacuache/galeria"} nombre={"Galeria"} />
+  <Navbar imagen={img} link={"/"} nombre={nombre}>
+    <NavOption link={"/"} nombre={"Inicio"} />
+    <NavOption link={"/galeria"} nombre={"Galeria"} />
   </Navbar>
   <Galery>
     {articulos.map((x) => <GaleryImg link={x.frontmatter.imagen} />)}
