@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/PostsLayout.astro
-etiqueta: "26 de Noviembre del 2023"
-titulo: "🚧CIERRE DE CIRCULACIÓN 🚧 🚛"
-descripcion: "Aut. Acayucan - Cosoleacaque, km 1, dirección Acayucan. Cierre de circulación por atención a incidente (tracto camión siniestrado). #Minatitlan #Cosoleacaque #Acayucan"
-imagen: /404658806_262028086867233_4599410566007550730_n.jpg
-link: https://www.facebook.com/TlacuacheNoticias/posts/262027213533987?ref=embed_post
+etiqueta: "08 de Diciembre del 2023"
+titulo: "2024 apunta a que será el año de las mujeres: Naomi Santos y Romina Gurrión ¡VA!"
+descripcion: ""
+imagen: /mujeres.jpg
+link: https://www.facebook.com/TlacuacheNoticias/
 redireccion: /posts/post_1
 ---
